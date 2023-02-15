@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework3</string>
+
+    <!--  共用  -->
+    <string name="gb_context_describe">背景</string>
+
+    <!--  main activity  -->
+    <string name="main_title">個人資訊編輯</string>
+    <string name="main_avatar">頭像</string>
+    <string name="main_spinner_chose_music">請選擇背景音樂</string>
+    <string name="main_spinner_chose_video">請選擇影片</string>
+    <string name="main_gif">GIF</string>
+    <string name="main_play_video">播放</string>
+
+    <!-- video activity  -->
+    <string name="video_return">返回</string>
+    <string name="video_video">影片</string>
+
+    <!--  avator activity  -->
+    <string name="avator_title">請選擇頭像</string>
+    <string name="textview">TextView</string>
+
+</resources>

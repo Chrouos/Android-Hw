@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnalyzePage">
+
+    <ImageView
+        android:id="@+id/background_analyze"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/bg_img"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/fondospikachu"
+        tools:ignore="ImageContrastCheck" />
+
+    <LinearLayout
+        android:layout_width="375dp"
+        android:layout_height="280dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/background_analyze"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.486"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/background_analyze"
+        app:layout_constraintVertical_bias="0.102">
+
+        <TextView
+            android:id="@+id/last_date"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="bottom"
+            android:text="@string/last_date"
+            android:textColor="#212121"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/analyze_next"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="bottom"
+            android:text="@string/analyze_next"
+            android:textColor="#212121"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/how_long_day"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="bottom"
+            android:text="@string/how_long_day"
+            android:textColor="#212121"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/cycle"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="bottom"
+            android:text="@string/cycle"
+            android:textColor="#212121"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+
+
+    <Button
+        android:id="@+id/main_page"
+        android:layout_width="140dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="40dp"
+        android:layout_weight="1"
+        android:backgroundTint="#A83F35"
+        android:text="@string/main_page"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.957" />
+
+    <Button
+        android:id="@+id/edit_page"
+        android:layout_width="140dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="40dp"
+        android:layout_weight="1"
+        android:backgroundTint="#4035A8"
+        android:text="@string/analyze_page"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.135"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.957" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

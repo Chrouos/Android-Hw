@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="WeiLiTsai">威力彩</string>
+    <string name="DaReTou">大樂透</string>
+    <string name="PlzChoose">請選擇模式</string>
+    <string name="Back">返回</string>
+
+    <string name="PlzInputNumber">請輸入組數</string>
+    <string name="Confirm">確認</string>
+    <string name="Nothing"></string>
+</resources>

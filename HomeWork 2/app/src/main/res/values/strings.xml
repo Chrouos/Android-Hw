@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="bg_img">背景圖片</string>
+
+    <string name="main_desc">月經紀錄表</string>
+    <string name="edit_page">編輯頁面</string>
+    <string name="analyze_page">分析頁面</string>
+    <string name="main_page">主頁面</string>
+
+    <string name="today_date">今日日期</string>
+    <string name="plz_input_date">請輸入日期</string>
+    <string name="start_date">開始</string>
+    <string name="end_date">結束</string>
+    <string name="edit_comment">備註</string>
+    <string name="submit">送出</string>
+
+    <string name="test">測試</string>
+
+    <string name="page_2_dec">只會顯示最近4筆</string>
+    <string name="edit_layout">修改模板</string>
+    <string name="edit">修改</string>
+    <string name="delete">刪除</string>
+    <string name="date">日期</string>
+
+    <string name="page_analyze_dec">分析</string>
+    <string name="last_date">上次經期日期</string>
+    <string name="analyze_next">預測下次日期及剩下時間</string>
+    <string name="how_long_day">一次通常會持續多久</string>
+    <string name="cycle">平均幾天一次</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/activity_analyze_page.xml" value="0.3255208333333333" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/activity_calendar.xml" value="0.1953125" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/activity_edit_page.xml" value="0.4191290824261275" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/activity_wait_for_do_it.xml" value="0.1953125" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/content_wait_for_do_it.xml" value="0.1953125" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/fragment_first.xml" value="0.1953125" />
+        <entry key="..\:/ProgrammingLanguage/SmartPhone/HomeWork 2/app/src/main/res/layout/fragment_second.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
